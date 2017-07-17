@@ -1,0 +1,16 @@
+{
+  "items":[{
+    "src":"../../static/img/head_pic.jpg",
+    "title":"个人信息",
+    "des":"this is an Athis is an Athis is an Athis is an Athis is an Athis is an Athis is an Athis is an Athis is an A"
+  },
+  {
+    "src":"../../static/img/head_pic.jpg",
+    "title":"联系方式",
+    "des":"this is a B"
+  },{
+    "src":"../../static/img/head_pic.jpg",
+    "title":"教育背景",
+    "des":"this is a C"
+  }]
+}
